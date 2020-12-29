@@ -2,6 +2,6 @@
 
 School Background: Chemical Engineering
 
-[yahoo](www.yahoo.com)
+[yahoo.com](www.yahoo.com)
 
 
